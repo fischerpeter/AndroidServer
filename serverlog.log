@@ -1,0 +1,347 @@
+2015-03-31 00:06:12 DEBUG StartServer:28 - RESTART
+2015-03-31 00:11:38 DEBUG StartServer:28 - RESTART
+2015-03-31 00:20:56 DEBUG StartServer:28 - RESTART
+2015-03-31 00:25:09 DEBUG StartServer:28 - RESTART
+2015-03-31 00:31:33 DEBUG StartServer:28 - RESTART
+2015-03-31 00:31:42 DEBUG StartServer:28 - RESTART
+2015-03-31 00:31:51 DEBUG ConnectionThread:36 - {"application":"external", "command":"sendtomobile", "data":[{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}]}
+2015-03-31 00:31:51 DEBUG Post2Gcm:90 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 00:31:51 DEBUG Post2Gcm:90 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"title": "Nachricht", "text": "Das ist eine Nachricht", "application": "Python"},}
+2015-03-31 00:31:51 DEBUG Post2Gcm:90 - Response Code : 200
+2015-03-31 00:31:51 DEBUG Post2Gcm:90 - Response: {"multicast_id":4804157295553712411,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427754710609569%e24adcc8f9fd7ecd"}]}
+2015-03-31 18:36:27 DEBUG StartServer:28 - RESTART
+2015-03-31 18:37:14 DEBUG StartServer:28 - RESTART
+2015-03-31 18:37:52 DEBUG ConnectionThread:37 - {"application":"external", "command":"sendtomobile", "data":[{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}]}
+2015-03-31 18:39:10 DEBUG StartServer:28 - RESTART
+2015-03-31 18:39:12 DEBUG ConnectionThread:37 - {"application":"external", "command":"sendtomobile", "data":[{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}]}
+2015-03-31 18:39:57 DEBUG StartServer:28 - RESTART
+2015-03-31 18:39:58 DEBUG ConnectionThread:37 - {"application":"external", "command":"sendtomobile", "data":[{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}]}
+2015-03-31 18:42:06 DEBUG StartServer:28 - RESTART
+2015-03-31 18:42:07 DEBUG ConnectionThread:37 - {"application":"external", "command":"sendtomobile", "data":[{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}]}
+2015-03-31 18:48:37 DEBUG StartServer:28 - RESTART
+2015-03-31 18:48:40 DEBUG ConnectionThread:39 - {"application":"external", "command":"sendtomobile", "data":[{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}]}
+2015-03-31 18:57:28 DEBUG StartServer:28 - RESTART
+2015-03-31 18:57:32 DEBUG ConnectionThread:40 - {"application":"external", "command":"sendtomobile", "data":[{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}]}
+2015-03-31 18:57:32 DEBUG ConnectionThread:46 - server.Message@8c4d62
+2015-03-31 18:57:50 DEBUG ConnectionThread:54 - {"application":"app","command":"com","data":[{"key":"a","value":"b"},{"key":"c","value":"d"}]}
+2015-03-31 18:57:50 DEBUG Post2Gcm:90 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 18:57:50 DEBUG Post2Gcm:90 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"title": "Nachricht", "text": "Das ist eine Nachricht", "application": "Python"},}
+2015-03-31 18:57:51 DEBUG Post2Gcm:90 - Response Code : 200
+2015-03-31 18:57:51 DEBUG Post2Gcm:90 - Response: {"multicast_id":8624166701407970286,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427821069963554%e24adcc8f9fd7ecd"}]}
+2015-03-31 19:00:45 DEBUG StartServer:28 - RESTART
+2015-03-31 19:00:48 DEBUG ConnectionThread:40 - {"application":"external", "command":"sendtomobile", "data":[{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}]}
+2015-03-31 19:00:49 DEBUG ConnectionThread:46 - server.Message@ac0378
+2015-03-31 19:00:52 DEBUG ConnectionThread:54 - {"application":"app","command":"com","data":[{"key":"a","value":"b"},{"key":"c","value":"d"}]}
+2015-03-31 19:00:52 DEBUG Post2Gcm:90 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 19:00:52 DEBUG Post2Gcm:90 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"title": "Nachricht", "text": "Das ist eine Nachricht", "application": "Python"},}
+2015-03-31 19:00:52 DEBUG Post2Gcm:90 - Response Code : 200
+2015-03-31 19:00:52 DEBUG Post2Gcm:90 - Response: {"multicast_id":9178768938122717398,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427821251450019%e24adcc8f9fd7ecd"}]}
+2015-03-31 19:06:22 DEBUG StartServer:28 - RESTART
+2015-03-31 19:06:25 DEBUG ConnectionThread:40 - {"application":"external", "command":"sendtomobile", "data":[{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}]}
+2015-03-31 19:06:51 DEBUG StartServer:28 - RESTART
+2015-03-31 19:06:56 DEBUG ConnectionThread:40 - {"application":"external", "command":"sendtomobile", "data":[{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}]}
+2015-03-31 19:07:09 DEBUG ConnectionThread:60 - {"application":"app","command":"com","data":[["a","b"],["c","d"]]}
+2015-03-31 19:07:09 DEBUG Post2Gcm:90 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 19:07:09 DEBUG Post2Gcm:90 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"title": "Nachricht", "text": "Das ist eine Nachricht", "application": "Python"},}
+2015-03-31 19:07:10 DEBUG Post2Gcm:90 - Response Code : 200
+2015-03-31 19:07:10 DEBUG Post2Gcm:90 - Response: {"multicast_id":8132911193391176182,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427821629158452%e24adcc8f9fd7ecd"}]}
+2015-03-31 19:11:00 DEBUG StartServer:28 - RESTART
+2015-03-31 19:11:02 DEBUG ConnectionThread:40 - {"application":"external", "command":"sendtomobile", "data":[{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}]}
+2015-03-31 19:11:04 DEBUG ConnectionThread:65 - {"application":"app","command":"com","data":[["a","b"],["c","d"]]}
+2015-03-31 19:11:04 DEBUG Post2Gcm:90 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 19:11:04 DEBUG Post2Gcm:90 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"title": "Nachricht", "text": "Das ist eine Nachricht", "application": "Python"},}
+2015-03-31 19:11:04 DEBUG Post2Gcm:90 - Response Code : 200
+2015-03-31 19:11:04 DEBUG Post2Gcm:90 - Response: {"multicast_id":5706741168983163332,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427821863509614%e24adcc8f9fd7ecd"}]}
+2015-03-31 19:11:50 DEBUG StartServer:28 - RESTART
+2015-03-31 19:11:51 DEBUG ConnectionThread:40 - {"application":"external", "command":"sendtomobile", "data":[{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}]}
+2015-03-31 19:14:37 DEBUG StartServer:28 - RESTART
+2015-03-31 19:14:37 DEBUG ConnectionThread:40 - {"application":"external", "command":"sendtomobile", "data":[{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}]}
+2015-03-31 19:14:39 DEBUG ConnectionThread:65 - {"application":"app","command":"com","data":[["a","b"],["c","d"]]}
+2015-03-31 19:14:39 DEBUG Post2Gcm:90 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 19:14:39 DEBUG Post2Gcm:90 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"title": "Nachricht", "text": "Das ist eine Nachricht", "application": "Python"},}
+2015-03-31 19:14:40 DEBUG Post2Gcm:90 - Response Code : 200
+2015-03-31 19:14:40 DEBUG Post2Gcm:90 - Response: {"multicast_id":6936332545849792241,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427822079133502%e24adcc8f9fd7ecd"}]}
+2015-03-31 19:20:09 DEBUG StartServer:28 - RESTART
+2015-03-31 19:20:11 DEBUG ConnectionThread:41 - {"application":"external", "command":"sendtomobile", "data":[{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}]}
+2015-03-31 19:20:26 DEBUG StartServer:28 - RESTART
+2015-03-31 19:20:27 DEBUG ConnectionThread:41 - {"application":"external", "command":"sendtomobile", "data":[{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}]}
+2015-03-31 19:20:31 DEBUG ConnectionThread:70 - {"application":"app","command":"com","data":{"a":"b","c":"d"}}
+2015-03-31 19:20:31 DEBUG Post2Gcm:90 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 19:20:31 DEBUG Post2Gcm:90 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"title": "Nachricht", "text": "Das ist eine Nachricht", "application": "Python"},}
+2015-03-31 19:20:31 DEBUG Post2Gcm:90 - Response Code : 200
+2015-03-31 19:20:31 DEBUG Post2Gcm:90 - Response: {"multicast_id":6116487512725008832,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427822430492719%e24adcc8f9fd7ecd"}]}
+2015-03-31 19:23:52 DEBUG StartServer:28 - RESTART
+2015-03-31 19:23:54 DEBUG ConnectionThread:41 - {"application":"external", "command":"sendtomobile", "data":[{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}]}
+2015-03-31 19:23:54 DEBUG ConnectionThread:60 - ArrayList<ArrayList<String>>  [["a","b"],["c","d"]]
+2015-03-31 19:23:54 DEBUG ConnectionThread:66 - ArrayList<String[]>   [["a","b"],["c","d"]]
+2015-03-31 19:23:54 DEBUG ConnectionThread:70 - HashMap   {"a":"b","c":"d"}
+2015-03-31 19:23:56 DEBUG ConnectionThread:72 - {"application":"app","command":"com","data":{"a":"b","c":"d"}}
+2015-03-31 19:23:56 DEBUG Post2Gcm:90 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 19:23:56 DEBUG Post2Gcm:90 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"title": "Nachricht", "text": "Das ist eine Nachricht", "application": "Python"},}
+2015-03-31 19:23:57 DEBUG Post2Gcm:90 - Response Code : 200
+2015-03-31 19:23:57 DEBUG Post2Gcm:90 - Response: {"multicast_id":5661952153602973621,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427822636226491%e24adcc8f9fd7ecd"}]}
+2015-03-31 19:27:00 DEBUG StartServer:28 - RESTART
+2015-03-31 19:27:03 DEBUG ConnectionThread:41 - {"application":"external", "command":"sendtomobile", "data":[{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}]}
+2015-03-31 19:27:03 DEBUG ConnectionThread:60 - ArrayList<ArrayList<String>>  [["a","b"],["c","d"]]
+2015-03-31 19:27:03 DEBUG ConnectionThread:66 - ArrayList<String[]>   [["a","b"],["c","d"]]
+2015-03-31 19:27:03 DEBUG ConnectionThread:70 - HashMap   {"a":"b","c":"d"}
+2015-03-31 19:27:06 DEBUG ConnectionThread:72 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 19:27:06 DEBUG Post2Gcm:90 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 19:27:06 DEBUG Post2Gcm:90 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"title": "Nachricht", "text": "Das ist eine Nachricht", "application": "Python"},}
+2015-03-31 19:27:07 DEBUG Post2Gcm:90 - Response Code : 200
+2015-03-31 19:27:07 DEBUG Post2Gcm:90 - Response: {"multicast_id":6653436497277771705,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427822825852972%e24adcc8f9fd7ecd"}]}
+2015-03-31 19:34:33 DEBUG StartServer:28 - RESTART
+2015-03-31 19:35:14 DEBUG StartServer:28 - RESTART
+2015-03-31 19:35:34 DEBUG StartServer:28 - RESTART
+2015-03-31 19:40:20 DEBUG StartServer:28 - RESTART
+2015-03-31 19:40:25 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 19:40:58 DEBUG StartServer:28 - RESTART
+2015-03-31 19:41:04 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 19:42:01 DEBUG StartServer:28 - RESTART
+2015-03-31 19:42:04 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 19:42:09 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 19:42:22 DEBUG StartServer:28 - RESTART
+2015-03-31 19:42:24 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 19:42:45 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 19:43:04 DEBUG StartServer:28 - RESTART
+2015-03-31 19:43:05 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 19:44:25 DEBUG StartServer:28 - RESTART
+2015-03-31 19:44:26 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 19:44:45 DEBUG StartServer:28 - RESTART
+2015-03-31 19:44:47 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 19:47:05 DEBUG StartServer:28 - RESTART
+2015-03-31 19:47:08 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 19:47:30 DEBUG StartServer:28 - RESTART
+2015-03-31 19:47:31 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 19:50:30 DEBUG StartServer:28 - RESTART
+2015-03-31 19:50:39 DEBUG StartServer:28 - RESTART
+2015-03-31 19:50:41 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 19:50:41 DEBUG Post2Gcm:90 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 19:50:41 DEBUG Post2Gcm:90 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"title": "Nachricht", "text": "Nachricht", "application": "Nachricht"},}
+2015-03-31 19:50:41 DEBUG ConnectionThread:64 - Nachricht
+2015-03-31 19:50:42 DEBUG Post2Gcm:90 - Response Code : 200
+2015-03-31 19:50:42 DEBUG Post2Gcm:90 - Response: {"multicast_id":8634970361039018080,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427824240860435%e24adcc8f9fd7ecd"}]}
+2015-03-31 19:51:13 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 19:51:13 DEBUG Post2Gcm:90 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 19:51:13 DEBUG ConnectionThread:64 - Nachricht
+2015-03-31 19:51:13 DEBUG Post2Gcm:90 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"title": "Nachricht", "text": "Nachricht", "application": "Nachricht"},}
+2015-03-31 19:51:14 DEBUG Post2Gcm:90 - Response Code : 200
+2015-03-31 19:51:14 DEBUG Post2Gcm:90 - Response: {"multicast_id":5104825017685044488,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427824272623759%e24adcc8f9fd7ecd"}]}
+2015-03-31 19:51:57 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 19:54:06 DEBUG StartServer:28 - RESTART
+2015-03-31 19:54:09 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 19:54:14 DEBUG Post2Gcm:90 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 19:54:14 DEBUG Post2Gcm:90 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"title": "Nachricht", "text": "null", "application": "null"},}
+2015-03-31 19:54:14 DEBUG ConnectionThread:64 - 
+2015-03-31 19:54:14 DEBUG Post2Gcm:90 - Response Code : 200
+2015-03-31 19:54:14 DEBUG Post2Gcm:90 - Response: {"multicast_id":6835351609922969228,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427824453434643%e24adcc8f9fd7ecd"}]}
+2015-03-31 19:54:25 DEBUG StartServer:28 - RESTART
+2015-03-31 19:54:26 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 20:00:25 DEBUG StartServer:28 - RESTART
+2015-03-31 20:00:27 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 20:00:46 DEBUG Post2Gcm:90 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 20:00:46 DEBUG Post2Gcm:90 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"title": "", "text": "", "application": ""},}
+2015-03-31 20:00:46 DEBUG ConnectionThread:64 - 
+2015-03-31 20:00:47 DEBUG Post2Gcm:90 - Response Code : 200
+2015-03-31 20:00:47 DEBUG Post2Gcm:90 - Response: {"multicast_id":7528131660887652600,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427824846254869%e24adcc8f9fd7ecd"}]}
+2015-03-31 20:02:16 DEBUG StartServer:28 - RESTART
+2015-03-31 20:02:19 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 20:02:21 DEBUG Post2Gcm:90 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 20:02:21 DEBUG Post2Gcm:90 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"title": "Nachricht", "text": "Das ist eine Nachricht", "application": "Python"},}
+2015-03-31 20:02:21 DEBUG ConnectionThread:64 - 
+2015-03-31 20:02:22 DEBUG Post2Gcm:90 - Response Code : 200
+2015-03-31 20:02:22 DEBUG Post2Gcm:90 - Response: {"multicast_id":7622084362409936126,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427824940836550%e24adcc8f9fd7ecd"}]}
+2015-03-31 20:08:10 DEBUG StartServer:28 - RESTART
+2015-03-31 20:08:12 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 20:08:12 DEBUG Post2Gcm:90 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 20:08:12 DEBUG Post2Gcm:90 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"title": "Nachricht", "text": "Das ist eine Nachricht", "application": "Python"},}
+2015-03-31 20:08:12 DEBUG ConnectionThread:64 - 
+2015-03-31 20:08:12 DEBUG Post2Gcm:90 - Response Code : 200
+2015-03-31 20:08:12 DEBUG Post2Gcm:90 - Response: {"multicast_id":4647216028582798333,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427825291423887%e24adcc8f9fd7ecd"}]}
+2015-03-31 20:37:21 DEBUG StartServer:28 - RESTART
+2015-03-31 20:37:23 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 20:37:23 DEBUG Post2Gcm:97 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 20:37:23 DEBUG Post2Gcm:97 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"title": "Nachricht", "text": "Das ist eine Nachricht", "application": "Python"},}
+2015-03-31 20:37:23 DEBUG ConnectionThread:64 - 
+2015-03-31 20:37:23 DEBUG Post2Gcm:97 - Response Code : 200
+2015-03-31 20:37:23 DEBUG Post2Gcm:97 - Response: {"multicast_id":7791092571350924294,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427827042399835%e24adcc8f9fd7ecd"}]}
+2015-03-31 20:41:16 DEBUG StartServer:28 - RESTART
+2015-03-31 20:41:22 DEBUG ConnectionThread:47 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 20:41:22 DEBUG ConnectionThread:69 - 
+2015-03-31 20:41:22 DEBUG Post2Gcm:86 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 20:41:22 DEBUG Post2Gcm:86 - {"registration_ids":[],"data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 20:41:23 DEBUG Post2Gcm:86 - Response Code : 401
+2015-03-31 20:41:23 ERROR Post2Gcm:78 - Cannot Send/IO Exception
+2015-03-31 20:41:23 ERROR Post2Gcm:79 - Server returned HTTP response code: 401 for URL: https://android.googleapis.com/gcm/send
+2015-03-31 20:42:26 DEBUG StartServer:28 - RESTART
+2015-03-31 20:42:26 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 20:42:36 DEBUG ConnectionThread:47 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 20:42:36 DEBUG ConnectionThread:69 - 
+2015-03-31 20:42:36 DEBUG Post2Gcm:86 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 20:42:36 DEBUG Post2Gcm:86 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 20:42:37 DEBUG Post2Gcm:86 - Response Code : 401
+2015-03-31 20:42:37 ERROR Post2Gcm:78 - Cannot Send/IO Exception
+2015-03-31 20:42:37 ERROR Post2Gcm:79 - Server returned HTTP response code: 401 for URL: https://android.googleapis.com/gcm/send
+2015-03-31 20:48:35 DEBUG StartServer:28 - RESTART
+2015-03-31 20:48:35 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 20:48:35 DEBUG ConnectionThread:47 - Message:  {"application":"external","command":"sendtomobile","data":[{"title":"Nachricht"},{"text":"Das ist eine Nachricht"},{"application":"Python"}]}
+2015-03-31 20:48:35 DEBUG ConnectionThread:71 - 
+2015-03-31 20:50:10 DEBUG StartServer:28 - RESTART
+2015-03-31 20:50:10 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 20:50:12 DEBUG ConnectionThread:45 - {"application":"external", "command":"sendtomobile", "data":{"title":"Nachricht"}, {"text":"Das ist eine Nachricht"}, {"application":"Python"}}
+2015-03-31 20:51:46 DEBUG ConnectionThread:45 - {"application":"external", "command":"sendtomobile", "data":{"title":"Nachricht","text":"Das ist eine Nachricht","application":"Python"}}
+2015-03-31 20:53:33 DEBUG StartServer:28 - RESTART
+2015-03-31 20:53:33 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 20:53:39 DEBUG StartServer:28 - RESTART
+2015-03-31 20:53:39 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 20:53:40 DEBUG ConnectionThread:45 - {"application":"external", "command":"sendtomobile", "data":{"title":"Nachricht","text":"Das ist eine Nachricht","application":"Python"}}
+2015-03-31 20:53:40 DEBUG ConnectionThread:47 - Message:  {"application":"external","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht","title":"Nachricht"}}
+2015-03-31 20:53:40 DEBUG ConnectionThread:71 - 
+2015-03-31 20:53:40 DEBUG Post2Gcm:86 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 20:53:40 DEBUG Post2Gcm:86 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"application":"Python","text":"Das ist eine Nachricht","title":"Nachricht"}}
+2015-03-31 20:53:41 DEBUG Post2Gcm:86 - Response Code : 401
+2015-03-31 20:53:41 ERROR Post2Gcm:78 - Cannot Send/IO Exception
+2015-03-31 20:53:41 ERROR Post2Gcm:79 - Server returned HTTP response code: 401 for URL: https://android.googleapis.com/gcm/send
+2015-03-31 20:56:40 DEBUG StartServer:28 - RESTART
+2015-03-31 20:56:40 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 20:56:41 DEBUG ConnectionThread:45 - {"application":"external", "command":"sendtomobile", "data":{"title":"Nachricht","text":"Das ist eine Nachricht","application":"Python"}}
+2015-03-31 20:56:41 DEBUG ConnectionThread:47 - Message:  {"application":"external","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht","title":"Nachricht"}}
+2015-03-31 20:56:41 DEBUG ConnectionThread:71 - 
+2015-03-31 20:56:41 DEBUG Post2Gcm:87 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 20:56:41 DEBUG Post2Gcm:87 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"application":"Python","text":"Das ist eine Nachricht","title":"Nachricht"}}
+2015-03-31 20:56:42 DEBUG Post2Gcm:87 - Response Code : 200
+2015-03-31 20:56:42 DEBUG Post2Gcm:87 - Response: {"multicast_id":7764148905885842916,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427828200875595%e24adcc8f9fd7ecd"}]}
+2015-03-31 20:57:23 DEBUG ConnectionThread:45 - {"application":"external", "command":"sendtomobile", "data":{"title":"Nachricht","text":"Das ist eine Nachricht!","application":"Python"}}
+2015-03-31 20:57:23 DEBUG ConnectionThread:47 - Message:  {"application":"external","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 20:57:23 DEBUG ConnectionThread:71 - 
+2015-03-31 20:57:23 DEBUG Post2Gcm:87 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 20:57:23 DEBUG Post2Gcm:87 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 20:57:23 DEBUG Post2Gcm:87 - Response Code : 200
+2015-03-31 20:57:23 DEBUG Post2Gcm:87 - Response: {"multicast_id":6528802790119993635,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427828242181571%e24adcc8f9fd7ecd"}]}
+2015-03-31 20:57:47 DEBUG StartServer:28 - RESTART
+2015-03-31 20:57:47 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 20:59:50 DEBUG StartServer:28 - RESTART
+2015-03-31 20:59:50 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 20:59:52 DEBUG ConnectionThread:45 - {"application":"external", "command":"sendtomobile", "data":{"title":"Nachricht","text":"Das ist eine Nachricht!","application":"Python"}}
+2015-03-31 20:59:52 DEBUG ConnectionThread:47 - Message:  {"application":"external","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 20:59:52 DEBUG Post2Gcm:87 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 20:59:52 DEBUG ConnectionThread:71 - 
+2015-03-31 20:59:52 DEBUG Post2Gcm:87 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 20:59:52 DEBUG Post2Gcm:87 - Response Code : 200
+2015-03-31 20:59:52 DEBUG Post2Gcm:87 - Response: {"multicast_id":4869029051476239712,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427828391413373%e24adcc8f9fd7ecd"}]}
+2015-03-31 21:00:26 DEBUG StartServer:28 - RESTART
+2015-03-31 21:00:26 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 21:00:30 DEBUG ConnectionThread:45 - {"application":"external", "command":"sendtomobile", "data":{"title":"Nachricht","text":"Das ist eine Nachricht!","application":"Python"}}
+2015-03-31 21:00:30 DEBUG ConnectionThread:47 - Message:  {"application":"external","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:00:30 DEBUG Post2Gcm:87 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 21:00:30 DEBUG ConnectionThread:71 - 
+2015-03-31 21:00:30 DEBUG Post2Gcm:87 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:00:31 DEBUG Post2Gcm:87 - Response Code : 200
+2015-03-31 21:00:31 DEBUG Post2Gcm:87 - Response: {"multicast_id":7653735833188718694,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427828429799715%e24adcc8f9fd7ecd"}]}
+2015-03-31 21:02:51 DEBUG StartServer:28 - RESTART
+2015-03-31 21:02:51 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 21:03:04 DEBUG ConnectionThread:45 - Message:  {"application":"external","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:03:04 DEBUG Post2Gcm:87 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 21:03:04 DEBUG Post2Gcm:87 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:03:04 DEBUG ConnectionThread:69 - 
+2015-03-31 21:03:05 DEBUG Post2Gcm:87 - Response Code : 200
+2015-03-31 21:03:05 DEBUG Post2Gcm:87 - Response: {"multicast_id":5559871398207734703,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427828584055189%e24adcc8f9fd7ecd"}]}
+2015-03-31 21:07:22 DEBUG StartServer:28 - RESTART
+2015-03-31 21:07:22 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 21:07:25 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:07:25 DEBUG Post2Gcm:87 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 21:07:25 DEBUG Post2Gcm:87 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:07:26 DEBUG Post2Gcm:87 - Response Code : 200
+2015-03-31 21:07:26 DEBUG Post2Gcm:87 - Response: {"multicast_id":9127546236651545247,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427828844609236%e24adcc8f9fd7ecd"}]}
+2015-03-31 21:07:43 DEBUG ConnectionThread:46 - Message:  {"application":"external1","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:07:43 ERROR ConnectionThread:75 - Application not known
+2015-03-31 21:08:11 DEBUG StartServer:28 - RESTART
+2015-03-31 21:08:11 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 21:08:26 DEBUG StartServer:28 - RESTART
+2015-03-31 21:08:26 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 21:08:27 DEBUG ConnectionThread:46 - Message:  {"application":"external1","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:08:27 ERROR ConnectionThread:75 - Application "external1
+ not implemented
+2015-03-31 21:08:40 DEBUG StartServer:28 - RESTART
+2015-03-31 21:08:40 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 21:08:41 DEBUG ConnectionThread:46 - Message:  {"application":"external1","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:08:41 ERROR ConnectionThread:75 - Application "external1" not implemented
+2015-03-31 21:08:51 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:08:51 DEBUG Post2Gcm:87 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 21:08:51 DEBUG Post2Gcm:87 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:08:52 DEBUG Post2Gcm:87 - Response Code : 200
+2015-03-31 21:08:52 DEBUG Post2Gcm:87 - Response: {"multicast_id":9137666360943699802,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427828930863515%e24adcc8f9fd7ecd"}]}
+2015-03-31 21:09:32 DEBUG StartServer:28 - RESTART
+2015-03-31 21:09:32 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 21:09:33 DEBUG ConnectionThread:46 - Message:  {"application":"external","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:09:33 DEBUG Post2Gcm:87 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 21:09:33 DEBUG Post2Gcm:87 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:09:33 DEBUG Post2Gcm:87 - Response Code : 200
+2015-03-31 21:09:33 DEBUG Post2Gcm:87 - Response: {"multicast_id":5309201915471944319,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427828972289808%e24adcc8f9fd7ecd"}]}
+2015-03-31 21:09:41 DEBUG ConnectionThread:46 - Message:  {"application":"External","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:09:41 DEBUG Post2Gcm:87 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 21:09:41 DEBUG Post2Gcm:87 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:09:41 DEBUG Post2Gcm:87 - Response Code : 200
+2015-03-31 21:09:41 DEBUG Post2Gcm:87 - Response: {"multicast_id":5234860641753236427,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427828980351932%e24adcc8f9fd7ecd"}]}
+2015-03-31 21:09:51 DEBUG ConnectionThread:46 - Message:  {"application":"External","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:11:07 DEBUG StartServer:28 - RESTART
+2015-03-31 21:11:07 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 21:11:08 DEBUG ConnectionThread:46 - Message:  {"application":"External","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:11:08 ERROR ConnectionThread:71 - External->"null" no implemented
+2015-03-31 21:17:01 DEBUG StartServer:28 - RESTART
+2015-03-31 21:17:01 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 21:17:02 DEBUG ConnectionThread:46 - Message:  {"application":"External","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:17:02 ERROR ConnectionThread:71 - External->"No Command received" not implemented (or command unknown)
+2015-03-31 21:22:04 DEBUG StartServer:28 - RESTART
+2015-03-31 21:22:04 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 21:22:09 DEBUG ConnectionThread:46 - Message:  {"application":"External","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:22:09 ERROR ConnectionThread:58 - No Command received from 'External'
+2015-03-31 21:25:28 DEBUG ConnectionThread:46 - Message:  {"command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:25:28 ERROR ConnectionThread:54 - No Source Application received
+2015-03-31 21:26:03 DEBUG StartServer:28 - RESTART
+2015-03-31 21:26:03 DEBUG KnownRegIDs:84 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 21:26:14 DEBUG ConnectionThread:46 - Message:  {"application":"External","command":"sendtomobile"}
+2015-03-31 21:26:14 ERROR ConnectionThread:62 - No Data received for 'sendtomobile' from 'External'
+2015-03-31 21:26:32 DEBUG ConnectionThread:46 - Message:  {"application":"External","command":"sendtomobile","data":{"application":"Python","title1":"Nachricht","text":"Das ist eine Nachricht!"}}
+2015-03-31 21:26:32 DEBUG Post2Gcm:87 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 21:26:32 DEBUG Post2Gcm:87 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"application":"Python","title1":"Nachricht","text":"Das ist eine Nachricht!"}}
+2015-03-31 21:26:33 DEBUG Post2Gcm:87 - Response Code : 200
+2015-03-31 21:26:33 DEBUG Post2Gcm:87 - Response: {"multicast_id":7119695193180637856,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427829992071011%e24adcc8f9fd7ecd"}]}
+2015-03-31 21:27:19 DEBUG ConnectionThread:46 - Message:  {"application":"External","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:27:19 DEBUG Post2Gcm:87 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 21:27:19 DEBUG Post2Gcm:87 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:27:20 DEBUG Post2Gcm:87 - Response Code : 200
+2015-03-31 21:27:20 DEBUG Post2Gcm:87 - Response: {"multicast_id":5592431161577199240,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427830038782407%e24adcc8f9fd7ecd"}]}
+2015-03-31 21:27:46 DEBUG ConnectionThread:46 - Message:  {"application":"External","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:27:46 DEBUG Post2Gcm:87 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 21:28:16 DEBUG Post2Gcm:87 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:28:16 DEBUG Post2Gcm:87 - Response Code : 200
+2015-03-31 21:28:16 DEBUG Post2Gcm:87 - Response: {"multicast_id":7513022092230366818,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427830095303027%e24adcc8f9fd7ecd"}]}
+2015-03-31 21:28:24 DEBUG ConnectionThread:46 - Message:  {"application":"External","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:28:26 DEBUG Post2Gcm:87 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 21:30:19 DEBUG StartServer:26 - RESTART
+2015-03-31 21:30:19 DEBUG KnownRegIDs:83 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 21:30:22 DEBUG ConnectionThread:41 - Message:  {"application":"External","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:30:26 DEBUG Post2Gcm:87 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 21:30:26 DEBUG Post2Gcm:87 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:30:27 DEBUG Post2Gcm:87 - Response Code : 200
+2015-03-31 21:30:27 DEBUG Post2Gcm:87 - Response: {"multicast_id":7308902674227629006,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427830225544235%e24adcc8f9fd7ecd"}]}
+2015-03-31 21:34:52 DEBUG StartServer:28 - RESTART
+2015-03-31 21:34:52 DEBUG KnownRegIDs:83 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 21:38:29 DEBUG StartServer:28 - RESTART
+2015-03-31 21:38:29 DEBUG KnownRegIDs:83 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 21:39:26 DEBUG StartServer:28 - RESTART
+2015-03-31 21:39:26 DEBUG KnownRegIDs:83 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 21:52:13 DEBUG StartServer:28 - RESTART
+2015-03-31 21:52:13 DEBUG KnownRegIDs:83 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 21:52:24 DEBUG ConnectionThread:41 - Message:  {"application":"External","command":"sendtomobile","data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:52:24 DEBUG Post2Gcm:93 - Posting to https://android.googleapis.com/gcm/send
+2015-03-31 21:52:24 DEBUG Post2Gcm:93 - {"registration_ids":["APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q"],"data":{"application":"Python","text":"Das ist eine Nachricht!","title":"Nachricht"}}
+2015-03-31 21:52:25 DEBUG Post2Gcm:93 - Response Code : 200
+2015-03-31 21:52:25 DEBUG Post2Gcm:93 - Response: {"multicast_id":5049099600542913670,"success":1,"failure":0,"canonical_ids":0,"results":[{"message_id":"0:1427831543738277%e24adcc8f9fd7ecd"}]}
+2015-03-31 22:10:28 DEBUG StartServer:28 - RESTART
+2015-03-31 22:10:28 DEBUG KnownRegIDs:83 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 22:19:34 DEBUG StartServer:28 - RESTART
+2015-03-31 22:19:34 DEBUG KnownRegIDs:83 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q
+2015-03-31 22:21:15 DEBUG StartServer:28 - RESTART
+2015-03-31 22:21:15 DEBUG KnownRegIDs:83 - Read from File: APA91bFK_XICSso4gV0rsxhaONkckZZiFzLQN9fttLtP-Pbd680-2kkYCBHu7RT5F_72XLfkIGMNmm4wNrftLYd88wjFJ-cBx5hLAKaxW-wMjfBPGmc1g3M_Ir_eDa2G18Tn6QPrDGpIAEHb1sC2qefI5UiLoOUpBmVh2bgmOfvLMYeGd2uzF0Q

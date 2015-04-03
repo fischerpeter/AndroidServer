@@ -1,0 +1,16 @@
+Tue Mar 31 00:31:51 CEST 2015;Python;Nachricht;Das ist eine Nachricht
+Tue Mar 31 18:57:50 CEST 2015;Python;Nachricht;Das ist eine Nachricht
+Tue Mar 31 19:00:52 CEST 2015;Python;Nachricht;Das ist eine Nachricht
+Tue Mar 31 19:07:09 CEST 2015;Python;Nachricht;Das ist eine Nachricht
+Tue Mar 31 19:11:04 CEST 2015;Python;Nachricht;Das ist eine Nachricht
+Tue Mar 31 19:14:39 CEST 2015;Python;Nachricht;Das ist eine Nachricht
+Tue Mar 31 19:20:31 CEST 2015;Python;Nachricht;Das ist eine Nachricht
+Tue Mar 31 19:23:56 CEST 2015;Python;Nachricht;Das ist eine Nachricht
+Tue Mar 31 19:27:06 CEST 2015;Python;Nachricht;Das ist eine Nachricht
+Tue Mar 31 19:50:41 CEST 2015;Nachricht;Nachricht;Nachricht
+Tue Mar 31 19:51:13 CEST 2015;Nachricht;Nachricht;Nachricht
+Tue Mar 31 19:54:14 CEST 2015;null;Nachricht;null
+Tue Mar 31 20:00:46 CEST 2015;;;
+Tue Mar 31 20:02:21 CEST 2015;Python;Nachricht;Das ist eine Nachricht
+Tue Mar 31 20:08:12 CEST 2015;Python;Nachricht;Das ist eine Nachricht
+Python0Das ist eine NachrichtNachrichtTue Mar 31 20:37:23 CEST 2015PythonDas ist eine Nachricht!NachrichtPythonDas ist eine Nachricht!NachrichtPythonDas ist eine Nachricht!NachrichtPythonDas ist eine Nachricht!NachrichtPythonDas ist eine Nachricht!NachrichtPythonDas ist eine Nachricht!NachrichtPythonDas ist eine Nachricht!NachrichtPythonNachrichtDas ist eine Nachricht!PythonDas ist eine Nachricht!NachrichtPythonDas ist eine Nachricht!NachrichtPythonDas ist eine Nachricht!NachrichtPythonDas ist eine Nachricht!Nachricht
